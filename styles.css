@@ -17,11 +17,9 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 .flower-image {
-    width: 450px;
+    width: 250px;
     margin-bottom: 20px;
 }
-
-
 
 h1 {
     color: #e60073;
@@ -49,9 +47,6 @@ button {
             display: none;
             background: #ffcc00;
         }
-#play-music {
-    background-color: #4CAF50; /* Verde */
-    color: white;
 
 a {
     color: #3498db;
